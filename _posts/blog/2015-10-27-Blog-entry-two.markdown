@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "物流机器人工作日报 2016／04/29"
-date:   2016-04-27 20:51:11
+layout:	post
+title:	"物流机器人工作日报 2016／04/29"
+date:	2016-04-28 20:51:11
 categories: blog
 ---
 
